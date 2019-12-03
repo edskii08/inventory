@@ -1,7 +1,2 @@
-[webservers]
-servera.lab.example.com
-serverb.lab.example.com
-
-[databases]
-serverc.lab.example.com
+[filesrv]
 serverd.lab.example.com
